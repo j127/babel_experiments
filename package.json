@@ -1,0 +1,16 @@
+{
+    "name": "@j127/babel_experiments",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "J. Cohen <hostelmarketing@gmail.com> (https://github.com/j127)",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/cli": "^7.10.1",
+        "@babel/core": "^7.10.2"
+    }
+}
