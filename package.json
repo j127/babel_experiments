@@ -1,16 +1,16 @@
 {
     "name": "@j127/babel_experiments",
-    "version": "1.0.0",
-    "description": "",
+    "version": "0.1.0",
+    "description": "Experiments with Babel",
     "main": "index.js",
     "scripts": {
         "build": "babel src -d build"
     },
-    "keywords": [],
     "author": "J. Cohen <hostelmarketing@gmail.com> (https://github.com/j127)",
-    "license": "ISC",
+    "license": "BSD-3-Clause",
     "devDependencies": {
         "@babel/cli": "^7.10.1",
-        "@babel/core": "^7.10.2"
+        "@babel/core": "^7.10.2",
+        "@babel/preset-env": "^7.10.2"
     }
 }
